@@ -6,9 +6,9 @@ color:
   saturation: 0.2744261643383652
   rhythmicContrast: 0.738333752611652
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#43464F'
+    - '#9B9B9D'
+    - '#D0DAE6'
+    - '#DEFF7C'
+    - '#ECBC34'
 name: Cornerstone Automation
